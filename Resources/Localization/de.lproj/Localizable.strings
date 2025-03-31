@@ -1,0 +1,27 @@
+// General
+"app_name" = "Zitate";
+
+// Navigation
+"all_quotes" = "Alle Zitate";
+"favorites" = "Favoriten";
+"add_quote" = "Zitat hinzufügen";
+
+// Actions
+"save" = "Speichern";
+"cancel" = "Abbrechen";
+"delete" = "Löschen";
+"edit" = "Bearbeiten";
+
+// Premium
+"premium_required" = "Premium erforderlich";
+"premium_message" = "Sie haben das Limit von 10 Zitaten erreicht. Upgrade auf Premium, um unbegrenzt Zitate zu speichern!";
+"upgrade" = "Upgraden";
+
+// Placeholders
+"quote_placeholder" = "Geben Sie Ihr Zitat ein";
+"author_placeholder" = "Geben Sie den Autornamen ein";
+
+// Errors
+"error_saving" = "Fehler beim Speichern des Zitats";
+"error_loading" = "Fehler beim Laden der Zitate";
+"error_deleting" = "Fehler beim Löschen des Zitats"; 

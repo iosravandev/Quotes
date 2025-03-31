@@ -1,0 +1,41 @@
+{
+  "identifier" : "YOUR_APP_ID",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "groupNumber" : 1,
+      "internalID" : "YOUR_PRODUCT_ID",
+      "localizations" : [
+        {
+          "description" : "Unlock unlimited quotes and premium features",
+          "displayName" : "Premium Upgrade",
+          "locale" : "en_US"
+        },
+        {
+          "description" : "Schalten Sie unbegrenzte Zitate und Premium-Funktionen frei",
+          "displayName" : "Premium Upgrade",
+          "locale" : "de_DE"
+        }
+      ],
+      "productID" : "com.yourdomain.quotes.premium",
+      "referenceName" : "Premium Upgrade",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "YOUR_APP_ID",
+    "_developerTeamID" : "YOUR_TEAM_ID",
+    "_lastSynchronizedDate" : "YOUR_DATE"
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 2,
+    "minor" : 0
+  }
+} 

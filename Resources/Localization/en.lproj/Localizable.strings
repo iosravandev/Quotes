@@ -1,0 +1,27 @@
+// General
+"app_name" = "Quotes";
+
+// Navigation
+"all_quotes" = "All Quotes";
+"favorites" = "Favorites";
+"add_quote" = "Add Quote";
+
+// Actions
+"save" = "Save";
+"cancel" = "Cancel";
+"delete" = "Delete";
+"edit" = "Edit";
+
+// Premium
+"premium_required" = "Premium Required";
+"premium_message" = "You've reached the limit of 10 quotes. Upgrade to premium to save unlimited quotes!";
+"upgrade" = "Upgrade";
+
+// Placeholders
+"quote_placeholder" = "Enter your quote";
+"author_placeholder" = "Enter author name";
+
+// Errors
+"error_saving" = "Error saving quote";
+"error_loading" = "Error loading quotes";
+"error_deleting" = "Error deleting quote"; 
